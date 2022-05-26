@@ -15,7 +15,7 @@
         android:paddingTop="20dp"
         android:text="Hello World!"
         android:textColor="#070707"
-        android:textSize="20sp"
+        android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
